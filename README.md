@@ -85,11 +85,11 @@
 
 <img src=".\images\6.png" alt="image-20221226144445006" style="zoom:50%;" />
 
-![image-20221226144518890](.\images\8.png)
+![](.\images\8.png)
 
  非vip会员只能申请两次，把握好
 
-<img src=".\images\9.png" alt="img" style="zoom:50%;" />![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+<img src=".\images\9.png" style="zoom:75%;" />
 
  之后会出现验证页面，有dns跟http验证
 
@@ -103,7 +103,7 @@ http那个我之前在nginx上部署后，是直接用阿里云的免费证书�
 
 最后证书申请成功后，下载到电脑上，解压出来
 
-![](.\images\10.png)
+<img src=".\images\10.png" style="zoom:75%;" />
 
 去到虚拟主机控制台-->FTP/文件管理-->ssl证书
 
@@ -119,8 +119,8 @@ ssl证书密钥内容：填的是private.pem这个文件里的内容，用记事
 
 记得把下面http跳转https勾选上，保存
 
-![](.\images\13.png)
+<img src=".\images\13.png" style="zoom:75%;" />
 
  重新访问域名，不会出现安全警告
 
-![](.\images\12.png)
+<img src=".\images\12.png" style="zoom:75%;" />
