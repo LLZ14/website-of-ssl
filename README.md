@@ -123,4 +123,4 @@ ssl证书密钥内容：填的是private.pem这个文件里的内容，用记事
 
  重新访问域名，不会出现安全警告
 
-<img src=".\images\12.png" style="zoom:75%;" />
+<img src=".\images\14.png" style="zoom:75%;" />
