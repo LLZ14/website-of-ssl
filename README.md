@@ -15,9 +15,7 @@
 
 购买成功如下图：
 
-<img src=".\images\0.png" style="zoom:50%;" />
 
-<img src=".\images\1.png" style="zoom:50%;" />
 
 
 
